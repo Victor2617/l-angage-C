@@ -1,0 +1,4 @@
+﻿  EX2.cpp
+c:\users\formation\source\repos\ex1\tp2ex2\ex2.cpp(14): error C2065: 'b' : identificateur non déclaré
+c:\users\formation\source\repos\ex1\tp2ex2\ex2.cpp(17): error C2065: 'a' : identificateur non déclaré
+c:\users\formation\source\repos\ex1\tp2ex2\ex2.cpp(22): error C2143: erreur de syntaxe : absence de ';' avant 'constante'
