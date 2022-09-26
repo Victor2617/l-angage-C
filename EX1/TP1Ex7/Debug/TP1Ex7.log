@@ -1,0 +1,7 @@
+﻿  Ex7.cpp
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(18): warning C4552: '-' : résultat de l'expression non utilisé
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(21): warning C4552: '-' : résultat de l'expression non utilisé
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(18): error C4700: variable locale 'I' non initialisée utilisée
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(22): error C4700: variable locale 'M' non initialisée utilisée
+c:\users\formation\source\repos\ex1\tp1ex7\ex7.cpp(22): error C4700: variable locale 'N' non initialisée utilisée

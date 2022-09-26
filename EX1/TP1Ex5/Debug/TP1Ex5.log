@@ -1,0 +1,3 @@
+﻿  Ex5.cpp
+c:\users\formation\source\repos\ex1\ex1\ex5.cpp(21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  TP1Ex5.vcxproj -> C:\Users\formation\source\repos\EX1\Debug\TP1Ex5.exe
