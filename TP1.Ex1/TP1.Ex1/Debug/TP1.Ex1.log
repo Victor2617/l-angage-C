@@ -1,0 +1,4 @@
+﻿  Ex1.cpp
+c:\users\formation\source\repos\tp1.ex1\tp1.ex1\ex1.cpp(9): warning C4474: 'printf_s' : trop d'arguments passés pour la chaîne de format
+  c:\users\formation\source\repos\tp1.ex1\tp1.ex1\ex1.cpp(9): note: les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+c:\users\formation\source\repos\tp1.ex1\tp1.ex1\ex1.cpp(9): error C4700: variable locale 'nb' non initialisée utilisée

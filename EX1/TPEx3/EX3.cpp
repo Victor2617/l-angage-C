@@ -5,19 +5,31 @@
 
 int main(int argc, char**argv)
 {
-	int a, b, result = 0;
+	float poids;
 
-	printf("Entrer eun valeur a : ");
-	scanf("%d", &b);
+	printf("saisir le poids de la lettre:");
+	scanf("%d, &poids");
 
-	printf("Entrer eun valeur a : ");
-	scanf("%d", &b);
-
-	for (int i = 0; i < b;i++)
+	if (poids < 20);
 	{
-		result += a;
+
+		printf(" vous devez payer 3 frs\n");
+
 	}
 
-	printf("%d * %d = %d", a, b, result);
+	else if (poids < 50)
+
+	{
+		printf(" vous devez payer 3.95 frs\n");
+
+	}
+	else
+	{
+		printf(" vous devez pâyer 5.90 frs\n");
+	}
+
+
 	return 0;
+
+
 }

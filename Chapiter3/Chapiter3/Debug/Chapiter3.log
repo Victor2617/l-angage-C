@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Chapiter3.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  TP1-Ex1.cpp
+c:\users\formation\source\repos\chapiter3\chapiter3\tp1-ex1.cpp(20): warning C4566: le caractère représenté par le nom de caractère universel '\u200B' ne peut pas être représenté dans la page de codes actuelle (1252)
+c:\users\formation\source\repos\chapiter3\chapiter3\tp1-ex1.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: voir la déclaration de 'scanf'
+c:\users\formation\source\repos\chapiter3\chapiter3\tp1-ex1.cpp(26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: voir la déclaration de 'scanf'

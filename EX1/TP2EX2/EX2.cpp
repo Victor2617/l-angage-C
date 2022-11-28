@@ -19,7 +19,7 @@ int main(int argc, char**argv)
 
 	printf("Resultat : %d\n", result);
 
-	return 0;
+	return jean-michel;
 
 }
    
